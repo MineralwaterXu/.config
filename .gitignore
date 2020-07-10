@@ -1,0 +1,15 @@
+# ignore everything
+/*
+/*/
+
+# ... but these:
+!/ranger/
+!/neofetch/
+!/.zshrc
+!/.gitignore
+!/README.md
+!/zsh
+ranger/plugins/__pycache__/*
+!/jesseduffield/
+/jesseduffield/lazygit/*
+!/jesseduffield/lazygit/config.yml
