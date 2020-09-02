@@ -13,4 +13,4 @@ ranger/plugins/__pycache__/*
 !/jesseduffield/
 /jesseduffield/lazygit/*
 !/jesseduffield/lazygit/config.yml
-!/mpv/
+!/mpv/mpv.conf
