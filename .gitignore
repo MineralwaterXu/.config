@@ -1,0 +1,29 @@
+# ignore everything
+/*
+/*/
+
+# ... but these:
+!/ranger/
+ranger/plugins/__pycache__/*
+ranger/colorschemes/__pycache__/*
+ranger/folders.conf
+!/neofetch/
+!/.zshrc
+!/.gitignore
+!/README.md
+!/jesseduffield/
+/jesseduffield/lazygit/*
+!/jesseduffield/lazygit/config.yml
+ranger/colorschemes/__init__.pyo
+ranger/colorschemes/default.pyo
+ranger/plugins/__init__.pyo
+ranger/plugins/devicons.pyo
+ranger/plugins/devicons_linemode.pyo
+!/mpv/
+mpv/shaders_cache/*
+mpv/watch_later/*
+mpv/encoding.rst
+mpv/input.conf
+mpv/mplayer-input.conf
+mpv/restore-old-bindings.conf
+mpv/tech-overview.txt
