@@ -27,3 +27,7 @@ mpv/input.conf
 mpv/mplayer-input.conf
 mpv/restore-old-bindings.conf
 mpv/tech-overview.txt
+!/zsh/
+zsh/.zcompdump
+zsh/.zcompdump-mw-5.8
+!/shell/
