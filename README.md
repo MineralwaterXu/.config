@@ -7,4 +7,7 @@
 ## lazygit
 
 ## mpv
+
+## zsh
+
 And maybe something in the future.
